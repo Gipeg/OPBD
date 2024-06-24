@@ -1,0 +1,1 @@
+SELECT * FROM ispp2110.author;
